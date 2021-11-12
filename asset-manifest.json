@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/MyPortfolio/static/js/main.dc044f9a.chunk.js",
-    "main.js.map": "/MyPortfolio/static/js/main.dc044f9a.chunk.js.map",
+    "main.js": "/MyPortfolio/static/js/main.16501d04.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.16501d04.chunk.js.map",
     "runtime-main.js": "/MyPortfolio/static/js/runtime-main.269e86e0.js",
     "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.269e86e0.js.map",
-    "static/js/2.3e9ad25b.chunk.js": "/MyPortfolio/static/js/2.3e9ad25b.chunk.js",
-    "static/js/2.3e9ad25b.chunk.js.map": "/MyPortfolio/static/js/2.3e9ad25b.chunk.js.map",
+    "static/js/2.45db0567.chunk.js": "/MyPortfolio/static/js/2.45db0567.chunk.js",
+    "static/js/2.45db0567.chunk.js.map": "/MyPortfolio/static/js/2.45db0567.chunk.js.map",
     "index.html": "/MyPortfolio/index.html",
-    "static/js/2.3e9ad25b.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.3e9ad25b.chunk.js.LICENSE.txt",
+    "static/js/2.45db0567.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.45db0567.chunk.js.LICENSE.txt",
     "static/media/Destiny.ad32a7a8.png": "/MyPortfolio/static/media/Destiny.ad32a7a8.png",
     "static/media/amazon2.7d5112f6.png": "/MyPortfolio/static/media/amazon2.7d5112f6.png",
     "static/media/blog1.7ecbb78c.svg": "/MyPortfolio/static/media/blog1.7ecbb78c.svg",
@@ -29,7 +29,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.269e86e0.js",
-    "static/js/2.3e9ad25b.chunk.js",
-    "static/js/main.dc044f9a.chunk.js"
+    "static/js/2.45db0567.chunk.js",
+    "static/js/main.16501d04.chunk.js"
   ]
 }
