@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GithubIcon from '@material-ui/icons/GitHub';
-import FacebookIcon from '@material-ui/icons/Facebook';
+
 import Particle from '../Components/Particle';
 
 function HomePage() {
@@ -14,9 +14,9 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>Suel Saraçi</span></h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Atque nihil voluptates ea dolore vel 
-                    repellat? Quia tenetur non quam exercitationem. Lorem ipsum dolor sit amet.
+                Innovative and young Web Developer, who is comfortable working with HTML/CSS, JavaScript, modern libraries and frameworks.
+                Looking for an opportunity to work with a company where i can grow professionally and personally.
+
                 </p>
                 <div className="icons">
                     <a href="https://www.linkedin.com/in/suel-s-a37624171/" className="icon i-Linkedin">
@@ -24,9 +24,6 @@ function HomePage() {
                     </a>
                     <a href="https://github.com/SuelSaraci" className="icon i-github">
                         <GithubIcon />
-                    </a>
-                    <a href="https://www.facebook.com/suelsss" className="icon i-facebook">
-                        <FacebookIcon />
                     </a>
                 </div>
             </div>
