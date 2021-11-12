@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/MyPortfolio/static/js/main.fb43b8f9.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.fb43b8f9.chunk.js.map",
+    "runtime-main.js": "/MyPortfolio/static/js/runtime-main.269e86e0.js",
+    "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.269e86e0.js.map",
+    "static/js/2.3e9ad25b.chunk.js": "/MyPortfolio/static/js/2.3e9ad25b.chunk.js",
+    "static/js/2.3e9ad25b.chunk.js.map": "/MyPortfolio/static/js/2.3e9ad25b.chunk.js.map",
+    "index.html": "/MyPortfolio/index.html",
+    "static/js/2.3e9ad25b.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.3e9ad25b.chunk.js.LICENSE.txt",
+    "static/media/Destiny.ad32a7a8.png": "/MyPortfolio/static/media/Destiny.ad32a7a8.png",
+    "static/media/amazon2.7d5112f6.png": "/MyPortfolio/static/media/amazon2.7d5112f6.png",
+    "static/media/blog1.7ecbb78c.svg": "/MyPortfolio/static/media/blog1.7ecbb78c.svg",
+    "static/media/blog2.09939351.svg": "/MyPortfolio/static/media/blog2.09939351.svg",
+    "static/media/blog3.6291ee7c.svg": "/MyPortfolio/static/media/blog3.6291ee7c.svg",
+    "static/media/blog4.60aa6cec.svg": "/MyPortfolio/static/media/blog4.60aa6cec.svg",
+    "static/media/books.a90401d1.png": "/MyPortfolio/static/media/books.a90401d1.png",
+    "static/media/design.8ecb3043.svg": "/MyPortfolio/static/media/design.8ecb3043.svg",
+    "static/media/facerecognition.016e3b79.png": "/MyPortfolio/static/media/facerecognition.016e3b79.png",
+    "static/media/game-dev.20147858.svg": "/MyPortfolio/static/media/game-dev.20147858.svg",
+    "static/media/intelligence.11bd2ab2.svg": "/MyPortfolio/static/media/intelligence.11bd2ab2.svg",
+    "static/media/lucida.8d9a9907.png": "/MyPortfolio/static/media/lucida.8d9a9907.png",
+    "static/media/oraxheza2.4a447ac6.png": "/MyPortfolio/static/media/oraxheza2.4a447ac6.png",
+    "static/media/profile.d490a1e8.jpg": "/MyPortfolio/static/media/profile.d490a1e8.jpg",
+    "static/media/resume.127063d1.jpg": "/MyPortfolio/static/media/resume.127063d1.jpg",
+    "static/media/signin.4b691f6e.png": "/MyPortfolio/static/media/signin.4b691f6e.png",
+    "static/media/siri.4655690f.png": "/MyPortfolio/static/media/siri.4655690f.png",
+    "static/media/spotify.b0aa0f24.png": "/MyPortfolio/static/media/spotify.b0aa0f24.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.269e86e0.js",
+    "static/js/2.3e9ad25b.chunk.js",
+    "static/js/main.fb43b8f9.chunk.js"
+  ]
+}
