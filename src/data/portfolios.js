@@ -78,7 +78,7 @@ const portfolios = [
         category: 'HTML/JavaScript/Php',
         image: signin,
         link1: 'https://github.com/SuelSaraci/Signin-Signup',
-        link2: 'https://login-and-signup.netlify.app/',
+        link2: 'https://dazzling-noether-30a41c.netlify.app/',
         title: 'SignIn/SignUp',
         text: 'Created with Html/Css/JavaScript/Little Php'
     },
