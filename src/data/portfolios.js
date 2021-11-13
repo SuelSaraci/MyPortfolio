@@ -86,8 +86,8 @@ const portfolios = [
         id: 9,
         category: 'HTML/JavaScript',
         image: siri,
-        link1: 'https://github.com/SuelSaraci/Virtual-assistant',
-        link2: 'https://angry-brattain-91f13f.netlify.app/',
+        link1: 'https://github.com/SuelSaraci/VirtualAssitant',
+        link2: 'https://quizzical-hermann-a105c8.netlify.app/',
         title: 'VirtualAssistent',
         text: 'Created with Html/Css/Javacript'
     }
