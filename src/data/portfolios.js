@@ -60,7 +60,7 @@ const portfolios = [
         category: 'HTML/JavaScript',
         image: oraxheza2,
         link1: 'https://github.com/SuelSaraci/OraXheza',
-        link2: 'https://sad-darwin-6e8684.netlify.app/',
+        link2: 'https://distracted-jones-7276db.netlify.app/',
         title: 'OraXheza',
         text: 'Created with Html/Css/JavaScript'
     },
