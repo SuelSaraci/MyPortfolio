@@ -15,7 +15,7 @@ const portfolios = [
         category: 'React JS',
         image: amazon2,
         link1: 'https://github.com/SuelSaraci/AmazonChallenge/tree/master',
-        link2: 'https://challenge-83993.web.app/',
+        link2: 'https://SuelSaraci.github.io/AmazonChallenge',
         title: 'AmazonChallenge',
         text: 'Created with ReactJS'
     },
