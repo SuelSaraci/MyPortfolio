@@ -12,12 +12,12 @@ import siri from "../images/siri.png"
 const portfolios = [
     {
         id: 1,
-        category: 'React JS',
-        image: amazon2,
-        link1: 'https://github.com/SuelSaraci/AmazonChallenge/tree/master',
-        link2: 'https://SuelSaraci.github.io/AmazonChallenge',
-        title: 'AmazonChallenge',
-        text: 'Created with ReactJS'
+        category: 'HTML/JavaScript',
+        image: Destiny,
+        link1: 'https://github.com/SuelSaraci/Destiny',
+        link2: 'https://xenodochial-wilson-3ac06a.netlify.app/',
+        title: 'DestinyProject',
+        text: 'Created with Html/Css/JavaScipt/Bootstrap'
     },
     {
         id: 2,
@@ -39,12 +39,13 @@ const portfolios = [
     },
     {
         id: 4,
-        category: 'HTML/JavaScript',
-        image: Destiny,
-        link1: 'https://github.com/SuelSaraci/Destiny',
-        link2: 'https://determined-wescoff-1a0cd3.netlify.app/',
-        title: 'DestinyProject',
-        text: 'Created with Html/Css/JavaScipt/Bootstrap'
+        category: 'React JS',
+        image: amazon2,
+        link1: 'https://github.com/SuelSaraci/AmazonChallenge/tree/master',
+        link2: 'https://SuelSaraci.github.io/AmazonChallenge',
+        title: 'AmazonChallenge',
+        text: 'Created with ReactJS'
+        
     },
     {
         id: 5,
