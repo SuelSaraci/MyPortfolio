@@ -1,24 +1,32 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GithubIcon from '@material-ui/icons/GitHub';
+import AOS from 'aos';
 
 import Particle from '../Components/Particle';
 
 function HomePage() {
+    useEffect(() => {
+        AOS.init({
+            duration:2000
+        });
+        AOS.refresh();
+      }, []);
+    
     return (
         <HomePageStyled>
             <div className="particle-con">
                 <Particle />
             </div>
             <div className="typography">
-                <h1>Hi, I'm <span>Suel Saraçi</span></h1>
-                <p>
+                <h1 data-aos="fade-left" data-aos-once="true">Hi, I'm <span>Suel Saraçi</span></h1>
+                <p  data-aos="zoom-in-left" data-aos-once="true">
                 Innovative and young Web Developer, who is comfortable working with HTML/CSS, JavaScript, modern libraries and frameworks.
                 Looking for an opportunity to work with a company where i can grow professionally and personally.
 
                 </p>
-                <div className="icons">
+                <div className="icons" data-aos="slide-down">
                     <a href="https://www.linkedin.com/in/suel-s-a37624171/" className="icon i-Linkedin">
                         <LinkedInIcon />
                     </a>
@@ -28,6 +36,7 @@ function HomePage() {
                 </div>
             </div>
         </HomePageStyled>
+        
     )
 }
 

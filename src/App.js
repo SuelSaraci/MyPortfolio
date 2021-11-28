@@ -15,6 +15,7 @@ import { Route, Switch as Switching } from "react-router";
 import Switch from '@material-ui/core/Switch'
 import { IconButton } from "@material-ui/core";
 
+import AOS from 'aos';
 
 function App() {
   const [theme, setTheme] = useState('dark-theme');
