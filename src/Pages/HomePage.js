@@ -19,9 +19,9 @@ function HomePage() {
             <div className="particle-con">
                 <Particle />
             </div>
-            <div className="typography">
-                <h1 data-aos="fade-left" data-aos-once="true">Hi, I'm <span>Suel Saraçi</span></h1>
-                <p  data-aos="zoom-in-left" data-aos-once="true">
+            <div className="typography"data-aos="fade-left" data-aos-once="true">
+                <h1 >Hi, I'm <span>Suel Saraçi</span></h1>
+                <p  >
                 Innovative and young Web Developer, who is comfortable working with HTML/CSS, JavaScript, modern libraries and frameworks.
                 Looking for an opportunity to work with a company where i can grow professionally and personally.
 
