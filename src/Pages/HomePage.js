@@ -26,7 +26,7 @@ function HomePage() {
                 Looking for an opportunity to work with a company where i can grow professionally and personally.
 
                 </p>
-                <div className="icons" data-aos="slide-down">
+                <div className="icons" >
                     <a href="https://www.linkedin.com/in/suel-s-a37624171/" className="icon i-Linkedin">
                         <LinkedInIcon />
                     </a>
