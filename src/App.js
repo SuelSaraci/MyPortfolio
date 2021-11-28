@@ -45,7 +45,7 @@ function App() {
               <div className="left-content">
                 <Brightness4Icon />
               </div>
-              <div className="right-content">
+              <div className="right-content" >
                 <Switch
                   value=""
                   checked={checked}
