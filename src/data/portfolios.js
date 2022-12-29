@@ -6,19 +6,28 @@ import Destiny from '../images/Destiny.png';
 import spotify from "../images/spotify.png"
 import lucida from "../images/lucida.png"
 import signin from "../images/signin.png"
-import siri from "../images/siri.png"
+import omnifood from "../images/omnifood.png"
 
 
 const portfolios = [
     {
-        id: 1,
+        id: 9, 
+        category: 'HTML/JavaScript',
+        image: omnifood,
+        link1: '#',
+        link2: 'https://fancy-praline-b14b97.netlify.app/',
+        title: 'OmniFood',
+        text: 'Created with Html/Css/Javacript'
+    },
+    {
+        id: 1, 
         category: 'HTML/JavaScript',
         image: Destiny,
         link1: 'https://github.com/SuelSaraci/Destiny',
         link2: 'https://xenodochial-wilson-3ac06a.netlify.app/',
         title: 'DestinyProject',
         text: 'Created with Html/Css/JavaScipt/Bootstrap'
-    },
+    }, 
     {
         id: 2,
         category: 'HTML/JavaScript',
@@ -83,15 +92,7 @@ const portfolios = [
         title: 'SignIn/SignUp',
         text: 'Created with Html/Css/JavaScript/Little Php'
     },
-    {
-        id: 9,
-        category: 'HTML/JavaScript',
-        image: siri,
-        link1: 'https://github.com/SuelSaraci/VirtualAssitant',
-        link2: 'https://quizzical-hermann-a105c8.netlify.app/',
-        title: 'VirtualAssistent',
-        text: 'Created with Html/Css/Javacript'
-    }
+
 ]
 
 export default portfolios;

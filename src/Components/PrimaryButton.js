@@ -1,11 +1,14 @@
 import React from 'react'
 import styled from 'styled-components';
+import personalCV from "../Suel's+Resume.pdf"
 
 function PrimaryButton({title}) {
     return (
+        <a href={personalCV} download="Suel's+Resume.pdf" target='_blank' >
         <PrimaryButtonStyled>
             {title}
         </PrimaryButtonStyled>
+        </a>
     )
 }
 

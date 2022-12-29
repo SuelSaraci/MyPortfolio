@@ -12,9 +12,7 @@ function ImageSection() {
             <div className="right-content">
                 <h4>I am <span>Suel Saraçi</span></h4>
                 <p className="paragraph">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, natus quas vero enim 
-                    praesentium delectus est id fugiat ab libero adipisci recusandae at maxime veritatis! 
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi, nesciunt.
+                Innovative and young Web Developer, who is comfortable working with HTML/CSS, JavaScript, modern libraries and frameworks. Looking for an opportunity to work with a company where i can grow professionally and personally.
                     
                 </p>
                 <div className="about-info">
@@ -28,7 +26,7 @@ function ImageSection() {
                     </div>
                     <div className="info">
                         <p>: Suel Saraçi</p>
-                        <p>: 18</p>
+                        <p>: 19</p>
                         <p>: Kosovar </p>
                         <p>: Albanian/ English/ A little German </p>
                         <p>: Prishtine , Kosova</p>

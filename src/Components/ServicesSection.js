@@ -16,19 +16,19 @@ function ServicesSection() {
                     <ServiceCard 
                         image={design} 
                         title={'Responsive Web Design'} 
-                        paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
+                        paragraph={'Responsive web design is a design approach that ensures that a website layout and content are optimized for viewing on any device, including desktop computers, tablets, and smartphones.'}
                     />
                     <div className="mid-card">
                         <ServiceCard 
                             image={intelligence} 
                             title={'React JS Development'} 
-                            paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
+                            paragraph={'React JS is a JavaScript library for building user interfaces. It is widely used for building single-page applications (SPAs) and mobile applications, and is known for its flexibility and performance.'}
                         />
                     </div>
                     <ServiceCard 
                         image={gamedev} 
                         title={'Frameworks'} 
-                        paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
+                        paragraph={'A framework is a set of tools, libraries, and conventions that are designed to help developers build applications more efficiently. Frameworks can provide a structure for building an application.'}
                     />
                 </div>
             </ServicesSectionStyled>
