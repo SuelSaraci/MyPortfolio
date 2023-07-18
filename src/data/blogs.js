@@ -8,7 +8,7 @@ const blogs = [
     id: 1,
     title: "How To Work from Home",
     date: "01",
-    month: "April",
+    month: "April ",
     image: blog1,
   },
   {
