@@ -26,7 +26,6 @@ function ContactPage() {
     // Check if the form is valid
     if (form.checkValidity()) {
       // The form is valid, so you can submit it or do other actions as needed
-      alert("Email sent succesfully");
 
       emailjs
         .sendForm(
@@ -37,9 +36,11 @@ function ContactPage() {
         )
         .then(
           (result) => {
+            alert("Email sent succesfully");
             console.log(result.text);
           },
           (error) => {
+            alert(error.text);
             console.log(error.text);
           }
         );
@@ -48,7 +49,7 @@ function ContactPage() {
       setFormValid(false);
     } else {
       // The form is invalid, so you can show an error message or do other actions as needed
-      alert("Form is invalid");
+      alert("Please Check the Form because is invalid");
 
       // Set the form's validity to true to trigger HTML5 validation
       setFormValid(true);

@@ -18,10 +18,10 @@ function ImageSection() {
           I am <span>Suel Saraçi</span>
         </h4>
         <p className="paragraph">
-          Innovative and young Web Developer, who is comfortable working with
-          HTML/CSS, JavaScript, modern libraries and frameworks. Looking for an
-          opportunity to work with a company where i can grow professionally and
-          personally.
+          Talented Software developer with a diverse set of skills that allow me
+          to tackle a wide range of problems, from creating user interfaces to
+          optimizing website performance. Eager to tacker more complex problems
+          and continue to find ways to maximize user efficiency.
         </p>
         <div className="about-info">
           <div className="info-title">
@@ -34,11 +34,11 @@ function ImageSection() {
           </div>
           <div className="info">
             <p>: Suel Saraçi</p>
-            <p>: 19</p>
+            <p>: 20</p>
             <p>: Kosovar </p>
             <p>: Albanian/ English/ A little German </p>
             <p>: Prishtine , Kosova</p>
-            <p>: Front-End-Developer </p>
+            <p>: Software developer </p>
           </div>
         </div>
         <a href={personalCV} download="Suel's+Resume.pdf" target="_blank">

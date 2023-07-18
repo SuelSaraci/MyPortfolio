@@ -4,12 +4,21 @@ import facerecognition from "../images/facerecognition.png";
 import books from "../images/books.png";
 import Destiny from "../images/Destiny.png";
 import spotify from "../images/spotify.png";
-import lucida from "../images/lucida.png";
+import knowy from "../images/knowy.png";
 import signin from "../images/signin.png";
 import omnifood from "../images/omnifood.png";
 import ellipsis from "../images/ellipsis.png";
 
 const portfolios = [
+  {
+    id: 11,
+    category: "React JS",
+    image: knowy,
+    link1: "#",
+    link2: "https://knowy.ai",
+    title: "Knowy AI",
+    text: "Front End Created with Next JS",
+  },
   {
     id: 10,
     category: "React JS",
@@ -46,15 +55,7 @@ const portfolios = [
     title: "Books",
     text: "Created with Html/Css/JavaScipt/Bootstrap",
   },
-  {
-    id: 3,
-    category: "Jquery",
-    image: lucida,
-    link1: "https://github.com/SuelSaraci/Lucida",
-    link2: "https://fervent-chandrasekhar-82eae9.netlify.app",
-    title: "Lucida",
-    text: "Created with Html/Css/Jquery",
-  },
+
   {
     id: 4,
     category: "React JS",
@@ -89,7 +90,7 @@ const portfolios = [
     link1: "https://github.com/SuelSaraci/FaceRecognition",
     link2: "https://lucid-nightingale-a6474a.netlify.app/",
     title: "FaceRecognition",
-    text: "Created with ReactJS and  API",
+    text: "Created with ReactJS",
   },
   {
     id: 8,

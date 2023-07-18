@@ -82,9 +82,6 @@ function App() {
           <Route path="/portfolios" exact>
             <PortfoliosPage />
           </Route>
-          <Route path="/blogs" exact>
-            <BlogsPage />
-          </Route>
           <Route path="/contact" exact>
             <ContactPage />
           </Route>
